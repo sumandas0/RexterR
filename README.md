@@ -1,2 +1,1 @@
-# RexterR
-A blog project
+# Hello I am Suman Das working with NodeJS and Typescript
